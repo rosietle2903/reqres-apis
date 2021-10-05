@@ -1,5 +1,5 @@
 # reqres-apis
-CRUD automation: https://reqres.in/
+Rest Endpoints Automation: https://reqres.in/
 
 
 Run Tests:
