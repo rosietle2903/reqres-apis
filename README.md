@@ -17,8 +17,6 @@ Dependencies:
 
 <img width="909" alt="Screen Shot 2021-10-05 at 2 26 16 PM" src="https://user-images.githubusercontent.com/22087224/136081289-b58c3169-022e-4290-bbfd-27bda01bf86a.png">
 
-This is a sample mini API automation framework: 
-
 Pros:
 
 - Provides a good modularization, easy test maintenance.
