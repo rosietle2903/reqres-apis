@@ -1,6 +1,10 @@
 # reqres-apis
 Rest Endpoints Automation: https://reqres.in/
 
+Summary:
+
+This mini sample framework demostrate basic CRUD automation leveraging the free API mentioned above. It has fixtures/helpers as well as tests folders to help navigate the tested endpoints easily. 
+
 
 Run Tests:
 
