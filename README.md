@@ -4,7 +4,10 @@ Rest Endpoints Automation: https://reqres.in/
 
 Run Tests:
 
+Dependecies 
 - Ensure you have atleast python 3 & pytest installed https://docs.pytest.org/en/6.2.x/getting-started.html
+- Ensure you have Requests installed https://docs.python-requests.org/en/latest/user/install/#python-m-pip-install-requests
+- Ensure you have Faker installed https://pypi.org/project/Faker/
 - Navigate to /tests after cloning the repo
 - Run `pytest tests/ -s -v`
 
