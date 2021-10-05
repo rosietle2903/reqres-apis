@@ -4,7 +4,7 @@ Rest Endpoints Automation: https://reqres.in/
 
 Run Tests:
 
-- Ensure you have atleast python 3 installed
+- Ensure you have atleast python 3 & pytest installed https://docs.pytest.org/en/6.2.x/getting-started.html
 - Navigate to /tests after cloning the repo
 - Run `pytest tests/ -s -v`
 
